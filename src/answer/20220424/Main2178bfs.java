@@ -1,10 +1,8 @@
-
-
 import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Scanner;
 
-public class Main2178 {
+public class Main2178bfs {
     static int answer;
     static int N, M;
     static int[][] arr, dir = {{1,0},{-1,0},{0,1},{0,-1}};
